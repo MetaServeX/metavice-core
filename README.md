@@ -21,20 +21,16 @@ Build a multi-chain ecosystem consisting of dSV apps deployed across multiple bl
 
 Features
 ---------------------
-- Decentralized & multi-chain services
-
+- Decentralized & multi-chain services: 
 A multi-chain ecosystem consisting of dSV apps deployed across multiple blockchains, as well as bridges between those apps to allow for the seamless flow of liquidity & dSVs across isolated services.
 
-- Universal Basic Income (UBI)
-
+- Universal Basic Income (UBI): 
 Subsidize funding reserve for UBI through ServeDAO which makes decisions on token distributions to millions of users.
 
-- Liquidity farming & staking
-
+- Liquidity farming & staking: 
 Incentive to liquidity providers and stakers to deposit their assets into the network. Anyone can farm and stake SERVE when they interact with the platform.
 
-- Trading platform
-
+- Trading platform: 
 One International marketplace that combines online store and services around the world. Buy any goods or services with our tokens.
 
 Info
